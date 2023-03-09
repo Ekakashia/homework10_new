@@ -1,0 +1,35 @@
+.container{
+    width: 400px;
+    height: 700px;
+    background-color: whitesmoke;
+    margin: 0 auto;
+    border-radius: 20px;
+   border: 1px solid rgba(200, 220, 220, 1);
+}
+.card{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+image{
+    margin: 0 auto;
+}
+
+.card1{
+    width: 320px;
+    height: 400px;
+    margin: 0 auto;
+    }
+    h3{
+        font-weight: bold;
+       font-size: 25px;
+    }
+    .p1{
+        font-size: 15px;
+    }
+    a{
+        font-size: 18px;
+        float: right;
+        text-decoration: none;
+    }
+   
